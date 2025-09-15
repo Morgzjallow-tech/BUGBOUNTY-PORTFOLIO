@@ -1,36 +1,31 @@
 # DVWA SQL Injection Lab
-**Platform:** DVWA  
-**Skills Practiced:** SQL Injection, Web Forms  
+Platform: DVWA  
+Skills Practiced: SQL Injection, Web Forms  
 
----
-
-## Summary
+# Summary
 In this lab, I practiced SQL Injection safely using DVWA, learning how vulnerable web forms can be exploited in a controlled environment.
 
----
 
-## Steps Taken
+# Steps Taken
 1. Opened DVWA and logged in  
 2. Navigated to SQL Injection page  
 3. Input test payloads  
 4. Captured screenshots of success  
 
----
 
-## Screenshots
-<!-- Add your images in a folder called screenshots, then link here -->
-![Screenshot1](screenshots/screenshot1.png)
+# Screenshots
+< Add your images in a folder called screenshots, then link here -->
+[Screenshot1](screenshots/screenshot1.png)
 
----
 
-## Lessons Learned
+
+# Lessons Learned
 - Learned how SQL Injection works  
 - Learned how web forms can be vulnerable  
 - Practiced documenting findings for a portfolio  
 
----
 
-## Notes
-This lab was completed in a **safe, legal environment**. All vulnerabilities were tested for learning purposes only.
+# Notes
+This lab was completed in a safe and legal environment. All vulnerabilities were tested for learning purposes only.
 
 

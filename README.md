@@ -31,19 +31,18 @@ Here are some of the labs and projects I’ve worked on:
   👉 [See folder](DVWA-XSS/)
 
 - 📂 Other DVWA Modules  
-  More screenshots and writeups to come soon.  
-
-
+  More DVWA screenshots and writeups to come soon.
+  (CSRF, BRUTE FORCE, FILE UPLOAD, ETC.)
+  
 -📸 Screenshots / Proof of Work
-I will be uploading *screenshots of my labs to show my progress and practical knowledge.  
+I will be uploading my lab screenshots in the 'assets' folder to show my progress and practical knowledge.  
 Stay tuned for more updates!
 
 
 # 📬 Contact Me
 - GitHub: [MorgzJallow-tech/BUGBOUNTY-PORTFOLIO](https://github.com/MorgzyJallow)  
 - Email: (morgzyjallow@gmail.com)  
-- LinkedIn: (optional, if you create one)  
-
+- LinkedIn: ( coming soon)  
 
 
 > ⚡ *This portfolio is a work in progress as I continue learning Python, cybersecurity, and bug bounty hunting.*
